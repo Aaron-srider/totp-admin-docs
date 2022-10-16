@@ -1,19 +1,22 @@
 # 前后端参数
 
-前端->后端
+## 参数格式
 
-变量命名规则：驼峰
+**前端->后端**
+
+变量命名规则：驼峰命名
+
 示例：
-tableName
-fileId
+* tableName
+* fileId
 
-后端->前端
+**后端->前端**
 
 变量规则命名：单词之间用下划线连接
 
 示例：
-table_name
-file_id
+* table_name
+* file_id
 
 # 后端返回值
 
